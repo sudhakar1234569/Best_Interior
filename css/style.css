@@ -278,7 +278,7 @@ body{
 
 
 .services {
-   
+   background: var(--white);
 }
 .services .box-container {
   display: grid;
