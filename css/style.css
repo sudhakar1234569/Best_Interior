@@ -278,7 +278,7 @@ body{
 
 
 .services {
-  background: var(--light-bg);
+  background:rgba(18, 219, 18, 0.596);
 }
 .services .box-container {
   display: grid;
