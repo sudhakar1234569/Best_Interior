@@ -13,7 +13,7 @@
   
   --shadow-1: 0 6px 24px var(--black_5);
   --shadow-2: 0 2px 28px rgb(107, 107, 107);
-
+  --border:.1rem solid rgba(0,0,0,.3);
   /**
    * border radius
    */
