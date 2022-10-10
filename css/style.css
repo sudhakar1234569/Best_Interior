@@ -298,7 +298,7 @@ body{
   color: rgba(17, 17, 17, 0.055);
 }
 .services .box-container .box:hover h3 {
-  color: var(--orange);
+  color: rgb(18, 219, 18);;
 }
 .services .box-container .box img {
   background-size: cover;
