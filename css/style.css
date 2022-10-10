@@ -292,6 +292,7 @@ body{
   box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 0.1);
   border: var(--border);
   border-radius: 9%;
+  height: 300px;
 }
 .services .box-container .box:hover img {
   transform: translateY(-1rem);
